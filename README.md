@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Rahul Kumar 👋
 
-<!--
-**krhl2405/krhl2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Chartered Accountant (ICAI)
+- Former PwC Associate – Asset & Wealth Management
+- Accounts & Finance Manager
+- Pursuing M.A. Economics from IGNOU
+- Transitioning into Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- SQL (MySQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- Excel
+- Power Query
+- Financial Analysis
+- Financial Modeling
+- MIS Reporting
+
+## Current Focus
+
+- Data Analytics
+- SQL
+- Python
+- Power BI
+- Financial Analytics
+
+## Professional Experience
+
+- PwC Acceleration Centre – Associate 2 (Asset & Wealth Management)
+- Accounts & Finance Manager
+
+## Certifications
+
+- SQL Bootcamp (30 Hours)
+- Microsoft Excel Power Query (10 Hours)
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ca-rhl2405
