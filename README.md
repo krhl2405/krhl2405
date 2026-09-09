@@ -11,7 +11,7 @@
 ## Technical Skills
 
 - SQL (MySQL)
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy)
 - Power BI
 - Excel
 - Power Query
@@ -34,8 +34,11 @@
 
 ## Certifications
 
-- SQL Bootcamp (30 Hours)
-- Microsoft Excel Power Query (10 Hours)
+-	Python Programming Bootcamp - Udemy | Python Fundamentals, NumPy, Pandas.
+-	SQL Bootcamp - Udemy | SQL for Data Analysis, Data Extraction, Joins, CTEs & Windows Functions.
+-	Microsoft Power Bi for Business Intelligence - Udemy | Data Visualization, DAX & Dashboard Design.	
+-	Microsoft Excel Power Query - Udemy | Data Transformation, ETL & Reporting.
+
 
 ## Connect With Me
 
